@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 :point_right: 📫 How to reach me: LinkedIn, Email.
 
-:point_right: 🔭 Know more about me at: 
+:point_right: 🔭 Know more about me at: https://dreddyyerram.github.io/
 
 [![Linkedin Badge](https://img.shields.io/badge/-DharanidharReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharanidharreddy/)](https://www.linkedin.com/in/dharanidharreddy/)
 [![Gmail Badge](https://img.shields.io/badge/yerram@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerram@usc.edu)](mailto:yerram@usc.edu)
