@@ -9,19 +9,19 @@
 dreddyyerram/dreddyyerram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-:point_right: 👋 Hi, I’m Dharanidhar Reddy Yerram
+ 👋 Hi, I’m Dharanidhar Reddy Yerram
 
-:point_right: 🎓 I’m currently pursuing Masters of Science in Computer Science from University of Southern California.
+ 🎓 I’m currently pursuing Masters of Science in Computer Science from University of Southern California.
 
-:point_right: 🌱 Previously, I worked as a Software Engineer at VMware. I was part of the NSX-T Platform team in VMware NSBU where i developed small scale internal applications that helped in . 
+ 🌱 Previously, I worked as a Software Engineer at VMware. I was part of the NSX-T Platform team in VMware NSBU where i developed small scale internal applications that helped in . 
 
-:point_right: 👀 I’m interested in developing innovative software solutions that improve user experiences and streamline workflows. I have a keen interest in Hybrid Cloud, Microservices, Machine learning and Architecture based applications.
+ 👀 I’m interested in developing innovative software solutions that improve user experiences and streamline workflows. I have a keen interest in Hybrid Cloud, Microservices, Machine learning and Architecture based applications.
 
-:point_right: 💞️ I’m looking to collaborate on open source projects related to any innovative software that seeks to make a positive impact.
+ 💞️ I’m looking to collaborate on open source projects related to any innovative software that seeks to make a positive impact.
 
-:point_right: 📫 How to reach me: LinkedIn, Email.
+ 📫 How to reach me: LinkedIn, Email.
 
-:point_right: 🔭 Know more about me at: https://dreddyyerram.github.io/
+ 🔭 Know more about me at: https://dreddyyerram.github.io/
 
 [![Linkedin Badge](https://img.shields.io/badge/-DharanidharReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharanidharreddy/)](https://www.linkedin.com/in/dharanidharreddy/)
 [![Gmail Badge](https://img.shields.io/badge/yerram@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yerram@usc.edu)](mailto:yerram@usc.edu)
